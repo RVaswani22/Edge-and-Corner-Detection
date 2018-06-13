@@ -1,0 +1,10 @@
+[A,B,C,D]=myEdgeFilter('img01.jpg',3);
+myHarrisCorner(B,C,0.75,'img01.jpg')
+[A,B,C,D]=myEdgeFilter('img02.jpg',3);
+myHarrisCorner(B,C,0.75,'img02.jpg')
+[A,B,C,D]=myEdgeFilter('img03.jpg',3);
+myHarrisCorner(B,C,0.75,'img03.jpg')
+[A,B,C,D]=myEdgeFilter('img04.jpg',3);
+myHarrisCorner(B,C,0.75,'img04.jpg')
+[A,B,C,D]=myEdgeFilter('img05.jpg',3);
+myHarrisCorner(B,C,0.75,'img05.jpg')
